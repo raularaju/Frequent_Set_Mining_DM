@@ -1,0 +1,2 @@
+# Frequent Set Mining applied in Spotify Playlist
+This is one of the projects undertaken during the Data Mining course at 'Universidade Federal de Minas Gerais.' The objective of this specific project is to utilize frequent set mining models and algorithms for understanding the patterns of playlists in Spotify and building inference rules for a potential recommender model. We have also written a [report](https://github.com/raularaju/TP1_MD/blob/main/report.pdf) where we share our methods and results.
